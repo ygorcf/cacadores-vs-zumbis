@@ -1,0 +1,22 @@
+{
+  "name": "cacadores-vs-zumbis",
+  "version": "1.0.0",
+  "description": "jogo e teste cacadores vs zumbis",
+  "main": "main.ts",
+  "scripts": {
+    "start": "tsx main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ygorcf/cacadores-vs-zumbis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ygorcf/cacadores-vs-zumbis/issues"
+  },
+  "homepage": "https://github.com/ygorcf/cacadores-vs-zumbis#readme",
+  "dependencies": {
+    "tsx": "^4.20.2"
+  }
+}
